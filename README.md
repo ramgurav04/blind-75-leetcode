@@ -14,8 +14,7 @@
 | ... | ... | ... | ... |
 
 ## 🛠️ Languages
-- Python (Primary)
-- (Add others)
+- JAVA (Primary)
 
 ## 📚 Structure
 - Each problem includes:
@@ -26,7 +25,7 @@
 
 ## 🏃‍♂️ Running the Code
 \`\`\`bash
-python problem-name.py
+java filename.java
 \`\`\`
 
 ## 📖 Resources
